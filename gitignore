@@ -1,0 +1,12 @@
+#Ignore Python virtual environment
+capstone_env/
+
+# Ignore compiled files
+__pycache__/
+*.pyc
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore data folder if needed (commented out here)
+# data/
