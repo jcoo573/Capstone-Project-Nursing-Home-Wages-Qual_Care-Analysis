@@ -1,12 +1,3 @@
-#Ignore data store
-.DS_Store
-
-#Ignore data
-data/
-
-#Ignore virt env folder
-/cap_env
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
